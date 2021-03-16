@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EusebioAjas&count_private=true&&theme=vue-dark&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=EusebioAjas&count_private=true&theme=vue-dark&show_icons=true">
 </div>
 <!--
 **EusebioAjas/EusebioAjas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
